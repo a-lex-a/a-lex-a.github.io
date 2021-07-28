@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Alexa
-  avatar: bio-photo.jpg
+  avatar: bio-photo.jpg.jpg
   bio: "I am the Interim Lead Librarian for Engineering and Sciences."
   email: aacarte2@ncsu.edu
   # Do not include the @ symbol in your Twitter username
